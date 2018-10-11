@@ -5,7 +5,7 @@
     "window": {
         "backgroundTextStyle": "light",
         "navigationBarBackgroundColor": "#fff",
-        "navigationBarTitleText": "DD链",
+        "navigationBarTitleText": "demo",
         "navigationBarTextStyle": "black"
     },
     "tabBar": {
@@ -23,7 +23,7 @@
                 "pagePath": "pages/index/index",
                 "iconPath": "",
                 "selectedIconPath": "",
-                "text": "找精英"
+                "text": "我的"
             }
         ]
     },
