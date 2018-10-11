@@ -1,0 +1,34 @@
+{
+    "pages": [
+        "pages/index/index"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "DD链",
+        "navigationBarTextStyle": "black"
+    },
+    "tabBar": {
+        "color": "#92969c",
+        "selectedColor": "#03a5ef",
+        "borderStyle": "white",
+        "backgroundColor": "#f7f7fa",
+        "list": [{
+                "pagePath": "pages/index/index",
+                "iconPath": "",
+                "selectedIconPath": "",
+                "text": "首页"
+            },
+            {
+                "pagePath": "pages/index/index",
+                "iconPath": "",
+                "selectedIconPath": "",
+                "text": "找精英"
+            }
+        ]
+    },
+    "networkTimeout": {
+        "request": 10000
+    },
+    "debug": true
+}

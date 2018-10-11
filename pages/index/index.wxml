@@ -1,0 +1,6 @@
+<view>
+  <view>{{text}}</view>
+  <view wx:for="{{listData}}">
+   {{index}}:{{item.customerName}}
+  </view>
+</view>  
